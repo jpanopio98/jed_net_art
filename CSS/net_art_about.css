@@ -1,0 +1,130 @@
+
+
+/*About Page*/
+
+body{
+    background-color: #457b9d;
+}
+h1{
+    color: #1d3557;
+}
+
+
+
+/*https://www.w3schools.com/howto/howto_css_vertical_menu.asp*/
+
+.vertical-menu {
+    width: 200px; /* Set a width if you like */
+}
+
+.vertical-menu a {
+    background-color: #a8dadc; /* Grey background color */
+    color: 1d3557; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+    background-color: #f1faee; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+    background-color: #e63946; 
+    color: white;
+}
+
+
+
+
+
+
+.vertical-menu2 {
+    width: 200px; /* Set a width if you like */
+    float: right;
+    position: relative;
+    right: 990px;
+    top: -525px;
+}
+
+.vertical-menu2 a {
+    background-color: #a8dadc; /* Grey background color */
+    color: 1d3557; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu2 a:hover {
+    background-color: #f1faee; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu2 a.active {
+    background-color: #e63946; 
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Memes*/
+
+/*https://fthmb.tqn.com/M1ISdSdfLsU36nAuILe3YlFcY1w=/400x400/filters:fill(auto,1)/success-56a9fd1f3df78cf772abee09.jpg*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,113 @@
+body{
+    background-color: aqua
+}
+
+
+.back{
+   font-size: 45px;
+    
+}
+
+.meme1{
+    float: left;
+    position: relative;
+    left: 400px;
+    bottom: -120px;
+    
+}
+
+
+
+.meme2{
+    float: left;
+    position: relative;
+    bottom: -350px;
+    right: -100px;
+    
+}
+
+
+.meme3{
+    float: right;
+    position: relative;
+    left: -520px;
+    bottom: -20px
+}
+
+.meme4{
+    float: right;
+    position: relative;
+    top: 350px;
+    right: 120px;
+}
+
+
+.meme5{
+    float: left;
+    position: relative;
+    top: -300px;
+    right: -50px;
+}
+
+
+.meme6{
+    float: left;
+    position: relative;
+    top: 30px;
+    left: -350px;
+}
+
+
+.meme7{
+    float: right;
+    position: relative;
+    left: -120px
+}
+
+.meme8{
+    float: right;
+    position: relative;
+    top: -330px;
+    right: -200px
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

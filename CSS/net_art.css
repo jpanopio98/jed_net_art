@@ -1,0 +1,210 @@
+
+
+/*background:http://globalmedicalco.com/photos/globalmedicalco/26/125476.png*/
+body{
+    background-repeat: no-repeat;
+    background-size: 1550px 800px;
+    
+}
+
+
+/* Ref:https://www.w3schools.com/howto/howto_js_topnav.asp*/
+.topnav {
+    background-color: #333;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+
+#test p {
+    opacity: 100;
+    margin-top: 375px;
+    font-size: 61px;
+    text-align: center;
+    -webkit-transition: opacity 10s ease-in;
+    -moz-transition: opacity 2s ease-in;
+    -o-transition: opacity 2s ease-in;
+    -ms-transition: opacity 2s ease-in;
+    transition: opacity 10s ease-in;
+    width: 0px;
+    float: right;
+    padding: 0px 898px;
+}
+#test p.load {
+    opacity: 100;
+}
+
+
+
+ /*https://codepen.io/ConnorGaunt/pen/OReXZB*/
+
+.test{
+  opacity: 100;
+    float: right;
+    padding-right: 300px;
+    padding-top: 150px;
+    font-family: vermin vibes;
+}
+.cursor{
+  display: block;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  right: 0px;
+  width: 0px;
+  /* Change colour of Cursor Here */
+  background-color: black;
+  z-index: 1;
+  animation: flash 0.5s none infinite alternate;
+    
+}
+@keyframes flash{
+  0%{
+    opacity: 1;
+  }
+  100%{
+    opacity: 0;
+  }
+}
+
+/*http://www.1001fonts.com/pixel-font.html*/
+
+@font-face {
+font-family: Pixel;
+src: url(C:/Users/jedpa/OneDrive/Documents/net_art/Webpages/Pixel.ttf);
+}
+
+.topnav a {
+font-family: Pixel, sans-serif;
+}
+
+.test {
+font-family: Pixel, sans-serif;
+}
+
+
+
+
+
+
+/*About Page*/
+
+
+
+
+
+
+/*https://www.w3schools.com/howto/howto_css_vertical_menu.asp*/
+
+.vertical-menu {
+    width: 200px; /* Set a width if you like */
+}
+
+.vertical-menu a {
+    background-color: #FF6309; /* Grey background color */
+    color: black; /* Black text color */
+    display: block; /* Make the links appear below each other */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove underline from links */
+}
+
+.vertical-menu a:hover {
+    background-color: #ccc; /* Dark grey background on mouse-over */
+}
+
+.vertical-menu a.active {
+    background-color: #4CAF50; /* Add a green color to the "active/current" link */
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Memes*/
+
+/*https://fthmb.tqn.com/M1ISdSdfLsU36nAuILe3YlFcY1w=/400x400/filters:fill(auto,1)/success-56a9fd1f3df78cf772abee09.jpg*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
